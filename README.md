@@ -1,12 +1,4 @@
-# CodeAlpha - Simple E-Commerce Store
-
-## Internship
-
-CodeAlpha Full Stack Development Internship
-
-## Task
-
-Task 1 - Simple E-Commerce Store
+#  Simple E-Commerce Store
 
 ## Project Description
 
@@ -71,16 +63,10 @@ and ratings.
 - OrderItem
 - Review
 
-## Internship Information
 
-**Organization:** CodeAlpha
-
-**Program:** Full Stack Development Internship
-
-**Task:** Task 1 - Simple E-Commerce Store
 
 ## Purpose
 
-This project was developed as part of the CodeAlpha Full Stack
-Development Internship to demonstrate practical full-stack web
+This project was developed as part of the  Full Stack
+Development  to demonstrate practical full-stack web
 development skills.
